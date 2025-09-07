@@ -165,4 +165,4 @@ Learn more:
 - write full number instead of 10k.
 - black color outside and inside white color correction.
 ![alt text](img/sj_visualizer.png)
-![alt text](img/yt_original.png.png)
+![alt text](img/yt_original.png)
